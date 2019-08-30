@@ -1,6 +1,6 @@
 # Redux From Scratch
 
-This repository contains source code for my [BYOR: Build Your Own Redux](https://blog.martindidiego.com/build-your-own-redux/) blog post. In this post, we’ll be exploring how Redux works at its core and then building it from the ground up to power a simple music player application.
+This repository contains source code for my [BYOR: Build Your Own Redux](https://blog.martindidiego.com/build-your-own-redux/) blog post. In this post, we’ll be exploring how [Redux](https://github.com/reduxjs/redux) works at its core and then building it from the ground up to power a simple music player application. This repo is purely for informational purposes and you should totally use the real Redux in your application if needed :smile:.
 
 <p align="center">
 	<img src="./demo.gif" alt="Video showing the application running and user switching between active songs" />
