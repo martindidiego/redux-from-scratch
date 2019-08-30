@@ -1,0 +1,6 @@
+# Parcel files
+.cache
+dist
+
+# NPM and Node
+node_modules
